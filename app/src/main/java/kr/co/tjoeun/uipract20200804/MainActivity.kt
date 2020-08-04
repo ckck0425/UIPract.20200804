@@ -9,4 +9,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    <RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_width="wrap_content">
+
 }
